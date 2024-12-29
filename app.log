@@ -1,0 +1,97 @@
+2024-12-28 19:46:40,004 - DEBUG - Connected to database at c:\Users\Sazzad\Desktop\Another ONe\Test\FacultyOnSite.db
+2024-12-28 19:46:40,004 - DEBUG - Foreign key constraints enabled.
+2024-12-28 19:46:53,030 - DEBUG - Connected to database at c:\Users\Sazzad\Desktop\Another ONe\Test\FacultyOnSite.db
+2024-12-28 19:46:53,030 - DEBUG - Foreign key constraints enabled.
+2024-12-28 19:46:53,190 - DEBUG - Password hashed successfully.
+2024-12-28 19:46:53,350 - DEBUG - Password hashed successfully.
+2024-12-28 19:46:53,511 - DEBUG - Password hashed successfully.
+2024-12-28 19:46:53,671 - DEBUG - Password hashed successfully.
+2024-12-28 19:46:53,832 - DEBUG - Password hashed successfully.
+2024-12-28 19:46:53,993 - DEBUG - Password hashed successfully.
+2024-12-28 19:46:54,153 - DEBUG - Password hashed successfully.
+2024-12-28 19:46:54,314 - DEBUG - Password hashed successfully.
+2024-12-28 19:46:54,474 - DEBUG - Password hashed successfully.
+2024-12-28 19:46:54,634 - DEBUG - Password hashed successfully.
+2024-12-28 19:46:54,794 - DEBUG - Password hashed successfully.
+2024-12-28 19:46:54,795 - DEBUG - Inserted users into Users table.
+2024-12-28 19:46:54,795 - DEBUG - Inserted students into Students table.
+2024-12-28 19:46:54,795 - DEBUG - Inserted lecturers into Lecturers table.
+2024-12-28 19:46:54,795 - DEBUG - Inserted appointments into Appointments table.
+2024-12-28 19:46:54,798 - INFO - Test data inserted successfully.
+2024-12-28 19:46:54,798 - DEBUG - Database connection closed.
+2024-12-28 19:49:16,533 - DEBUG - Connected to database at c:\Users\Sazzad\Desktop\Another ONe\Test\FacultyOnSite.db
+2024-12-28 19:49:16,533 - DEBUG - Foreign key constraints enabled.
+2024-12-28 19:49:34,411 - DEBUG - Password verification result: True
+2024-12-28 19:50:11,097 - DEBUG - Password verification result: True
+2024-12-28 19:57:27,852 - DEBUG - Connected to database at c:\Users\Sazzad\Desktop\Another ONe\test\FacultyOnSite.db
+2024-12-28 19:57:27,852 - DEBUG - Foreign key constraints enabled.
+2024-12-28 19:59:32,841 - DEBUG - Connected to database at e:\test\FacultyOnSite.db
+2024-12-28 19:59:32,841 - DEBUG - Foreign key constraints enabled.
+2024-12-28 20:00:12,244 - DEBUG - Connected to database at e:\test\FacultyOnSite.db
+2024-12-28 20:00:12,244 - DEBUG - Foreign key constraints enabled.
+2024-12-28 20:00:15,088 - DEBUG - Connected to database at e:\test\FacultyOnSite.db
+2024-12-28 20:00:15,088 - DEBUG - Foreign key constraints enabled.
+2024-12-28 20:00:15,249 - DEBUG - Password hashed successfully.
+2024-12-28 20:00:15,410 - DEBUG - Password hashed successfully.
+2024-12-28 20:00:15,571 - DEBUG - Password hashed successfully.
+2024-12-28 20:00:15,731 - DEBUG - Password hashed successfully.
+2024-12-28 20:00:15,892 - DEBUG - Password hashed successfully.
+2024-12-28 20:00:16,053 - DEBUG - Password hashed successfully.
+2024-12-28 20:00:16,213 - DEBUG - Password hashed successfully.
+2024-12-28 20:00:16,374 - DEBUG - Password hashed successfully.
+2024-12-28 20:00:16,534 - DEBUG - Password hashed successfully.
+2024-12-28 20:00:16,695 - DEBUG - Password hashed successfully.
+2024-12-28 20:00:16,855 - DEBUG - Password hashed successfully.
+2024-12-28 20:00:16,855 - WARNING - Integrity Error while inserting users: UNIQUE constraint failed: Users.username
+2024-12-28 20:00:16,855 - WARNING - Integrity Error while inserting students: UNIQUE constraint failed: Students.number
+2024-12-28 20:00:16,855 - WARNING - Integrity Error while inserting lecturers: UNIQUE constraint failed: Lecturers.number
+2024-12-28 20:00:16,856 - DEBUG - Inserted appointments into Appointments table.
+2024-12-28 20:00:16,956 - INFO - Test data inserted successfully.
+2024-12-28 20:00:16,956 - DEBUG - Database connection closed.
+2024-12-28 20:00:19,449 - DEBUG - Connected to database at e:\test\FacultyOnSite.db
+2024-12-28 20:00:19,449 - DEBUG - Foreign key constraints enabled.
+2024-12-28 20:00:44,133 - DEBUG - Password verification result: True
+2024-12-28 20:02:02,054 - DEBUG - Password verification result: True
+2024-12-28 20:02:26,719 - DEBUG - Password verification result: True
+2024-12-28 20:03:47,667 - DEBUG - Password verification result: True
+2024-12-28 20:04:52,483 - DEBUG - Password verification result: True
+2024-12-28 20:05:41,463 - DEBUG - Password verification result: True
+2024-12-28 20:07:54,288 - DEBUG - Database connection closed.
+2024-12-28 20:22:58,343 - DEBUG - Connected to database at e:\test\FacultyOnSite.db
+2024-12-28 20:22:58,344 - DEBUG - Foreign key constraints enabled.
+2024-12-28 20:23:01,107 - DEBUG - Connected to database at e:\test\FacultyOnSite.db
+2024-12-28 20:23:01,107 - DEBUG - Foreign key constraints enabled.
+2024-12-28 20:23:01,267 - DEBUG - Password hashed successfully.
+2024-12-28 20:23:01,428 - DEBUG - Password hashed successfully.
+2024-12-28 20:23:01,588 - DEBUG - Password hashed successfully.
+2024-12-28 20:23:01,748 - DEBUG - Password hashed successfully.
+2024-12-28 20:23:01,909 - DEBUG - Password hashed successfully.
+2024-12-28 20:23:02,069 - DEBUG - Password hashed successfully.
+2024-12-28 20:23:02,229 - DEBUG - Password hashed successfully.
+2024-12-28 20:23:02,392 - DEBUG - Password hashed successfully.
+2024-12-28 20:23:02,553 - DEBUG - Password hashed successfully.
+2024-12-28 20:23:02,714 - DEBUG - Password hashed successfully.
+2024-12-28 20:23:02,875 - DEBUG - Password hashed successfully.
+2024-12-28 20:23:02,875 - WARNING - Integrity Error while inserting users: UNIQUE constraint failed: Users.username
+2024-12-28 20:23:02,875 - WARNING - Integrity Error while inserting students: UNIQUE constraint failed: Students.number
+2024-12-28 20:23:02,875 - WARNING - Integrity Error while inserting lecturers: UNIQUE constraint failed: Lecturers.number
+2024-12-28 20:23:02,876 - DEBUG - Inserted appointments into Appointments table.
+2024-12-28 20:23:02,951 - INFO - Test data inserted successfully.
+2024-12-28 20:23:02,951 - DEBUG - Database connection closed.
+2024-12-28 20:27:35,627 - DEBUG - Connected to database at e:\test\FacultyOnSite.db
+2024-12-28 20:27:35,627 - DEBUG - Foreign key constraints enabled.
+2024-12-28 20:27:47,531 - DEBUG - Password verification result: True
+2024-12-28 20:27:51,053 - DEBUG - Database connection closed.
+2024-12-28 21:21:44,563 - DEBUG - Connected to database at e:\test\FacultyOnSite.db
+2024-12-28 21:21:44,564 - DEBUG - Foreign key constraints enabled.
+2024-12-28 21:22:06,828 - DEBUG - Password verification result: True
+2024-12-28 21:22:26,835 - DEBUG - Password verification result: True
+2024-12-28 21:23:07,591 - DEBUG - Password verification result: True
+2024-12-28 21:25:12,266 - DEBUG - Password verification result: True
+2024-12-28 21:27:55,373 - DEBUG - Password verification result: True
+2024-12-28 21:33:32,249 - DEBUG - Connected to database at e:\test\FacultyOnSite.db
+2024-12-28 21:33:32,249 - DEBUG - Foreign key constraints enabled.
+2024-12-28 21:33:44,511 - DEBUG - Password verification result: True
+2024-12-28 21:34:36,982 - DEBUG - Password verification result: False
+2024-12-28 21:44:59,898 - DEBUG - Connected to database at e:\test\FacultyOnSite.db
+2024-12-28 21:44:59,898 - DEBUG - Foreign key constraints enabled.
